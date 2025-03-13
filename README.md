@@ -9,11 +9,5 @@ Welcome to my **portfolio website**! This is a fully responsive personal portfol
 ✅ Contact Form with Email Integration  
 ✅ Social Media Links  
 
-## 🚀 Live Demo  
-🔗 [Visit My Portfolio](your-portfolio-link-here)  
 
-## 📂 How to Use  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/jayasingh31dec/portfolio_jaya
-   
+
